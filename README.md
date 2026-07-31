@@ -40,6 +40,40 @@ import cv2
 print(cv2.__version__)
 ```
 
+| Module No. | Main Title | Status | Link |
+|------------|------------|--------|:----:|
+| Module 1 | Introduction to Computer Vision | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2001%20-%20Introduction%20to%20Computer%20Vision) |
+| Module 2 | Image Basics | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2002%20-%20Image%20Basics) |
+| Module 3 | Image Manipulation | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2003%20-%20Image%20Manipulation) |
+| Module 4 | Drawing on Images | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2004%20-%20Drawing%20on%20Images) |
+| Module 5 | Color Spaces | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2005%20-%20Color%20Spaces) |
+| Module 6 | Image Arithmetic | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2006%20-%20Image%20Arithmetic) |
+| Module 7 | Image Filtering | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2007%20-%20Image%20Filtering) |
+| Module 8 | Thresholding | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2008%20-%20Thresholding) |
+| Module 9 | Morphological Operations | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2009%20-%20Morphological%20Operations) |
+| Module 10 | Edge Detection | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2010%20-%20Edge%20Detection) |
+| Module 11 | Contours | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2011%20-%20Contours) |
+| Module 12 | Histograms | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2012%20-%20Histograms) |
+| Module 13 | Geometric Transformations | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2013%20-%20Geometric%20Transformations) |
+| Module 14 | Feature Detection | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2014%20-%20Feature%20Detection) |
+| Module 15 | Image Matching | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2015%20-%20Image%20Matching) |
+| Module 16 | Object Detection Basics | ✅ Completed | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2016%20-%20Object%20Detection%20Basics) |
+| Module 17 | Video Processing | 🚧 In Progress | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2017%20-%20Video%20Processing%20using%20OpenCV) |
+| Module 18 | Motion Detection | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2018%20-%20Motion%20Detection) |
+| Module 19 | Object Tracking | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2019%20-%20Object%20Tracking) |
+| Module 20 | Deep Learning with OpenCV | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2020%20-%20Deep%20Learning%20with%20OpenCV) |
+| Module 21 | Face Recognition | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2021%20-%20Face%20Recognition) |
+| Module 22 | OCR | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2022%20-%20OCR) |
+| Module 23 | Image Segmentation | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2023%20-%20Image%20Segmentation) |
+| Module 24 | 3D Vision Basics | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2024%20-%203D%20Vision%20Basics) |
+| Module 25 | AI-Based Computer Vision | ⏳ Coming Soon | [👉](https://github.com/swapnil3104/Computer-Vision-Learning-Path-using-OpenCV/tree/main/Module%2025%20-%20AI-Based%20Computer%20Vision) |
+| Project | Project Files | ⏳ Coming Soon | 👉 |
+
+## Status Legend
+
+- ✅ **Completed**
+- 🚧 **In Progress**
+- ⏳ **Coming Soon**
 ---
 
 # 🗺️ Learning Roadmap
