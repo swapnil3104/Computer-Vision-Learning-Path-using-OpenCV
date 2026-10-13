@@ -1,4 +1,25 @@
-# Module 15 - Image Matching
+# Module 15 – Image Matching
+
+## 📖 Module Overview
+
+Image matching establishes correspondences between visual content in different images or locates target patterns within larger scenes. This module covers Template Matching techniques (cross-correlation, normalized coefficients) and Feature-Based Matching using descriptor matchers like Brute-Force Matcher (BFMatcher) and FLANN (Fast Library for Approximate Nearest Neighbors).
+
+## 📁 File Structure
+
+```text
+Module 15 – Image Matching/
+├── Images/
+│   ├── Image1.jpg
+│   ├── Image2.jpg
+│   ├── Object.jpg
+│   ├── object_rotated.jpg
+│   ├── scene.jpg
+│   └── Template.jpg
+├── Exanple.ipynb
+└── readme.md
+```
+
+---
 
 ## Introduction
 

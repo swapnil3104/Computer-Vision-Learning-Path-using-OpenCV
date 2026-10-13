@@ -1,4 +1,28 @@
-# Module 5 - Color Spaces
+# Module 05 - Color Spaces
+
+## 📖 Module Overview
+
+This module explores color spaces and their mathematical models used to represent colors in Computer Vision. It covers standard color spaces including BGR, RGB, HSV, LAB, YCrCb, and Grayscale, demonstrates color space conversions using OpenCV, and shows how to leverage color representations for object detection, color masking, and segmentation.
+
+## 📁 File Structure
+
+```text
+Module 05 - Color Spaces/
+├── images/
+│   ├── hsv.png
+│   ├── lab.jpg
+│   ├── rgb.png
+│   └── YCbCr.png
+├── Output images/
+│   ├── gray.jpg
+│   └── lab.jpg
+├── Example.ipynb
+├── hsv.jpg
+├── readme.md
+└── sample.jpg
+```
+
+---
 
 ## Learning Objectives
 

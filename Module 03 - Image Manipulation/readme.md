@@ -1,8 +1,17 @@
-# Module 3 - Image Manipulation
+# Module 03 - Image Manipulation
 
-Image manipulation is one of the most important tasks in Computer Vision. It involves modifying an image to improve its appearance, extract useful information, or prepare it for further processing.
+## 📖 Module Overview
 
-OpenCV provides many built-in functions for manipulating images such as resizing, cropping, rotating, flipping, translating, and scaling.
+Image manipulation is one of the most important tasks in Computer Vision. It involves modifying an image to improve its appearance, extract useful information, or prepare it for further processing. OpenCV provides many built-in functions for manipulating images such as resizing, cropping, rotating, flipping, translating, and scaling while preserving aspect ratios.
+
+## 📁 File Structure
+
+```text
+Module 03 - Image Manipulation/
+├── Example.ipynb
+├── readme.md
+└── sample.jpg
+```
 
 ---
 

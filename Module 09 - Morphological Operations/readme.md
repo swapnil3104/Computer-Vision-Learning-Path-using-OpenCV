@@ -1,4 +1,20 @@
-# Module 9 - Morphological Operations
+# Module 09 - Morphological Operations
+
+## 📖 Module Overview
+
+Morphological operations are mathematical techniques that process images based on shapes using structuring elements (kernels). Primarily applied to binary images, these operations include Erosion, Dilation, Opening, Closing, Morphological Gradient, Top Hat, and Black Hat, serving as powerful tools for noise removal, boundary extraction, and structural analysis.
+
+## 📁 File Structure
+
+```text
+Module 09 - Morphological Operations/
+├── Images/
+│   └── sample.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
 
 ## Introduction
 
@@ -610,4 +626,3 @@ blackhat = cv2.morphologyEx(image, cv2.MORPH_BLACKHAT, kernel)
 - These operations are essential for preprocessing images before tasks such as segmentation, feature extraction, object detection, and OCR.
 
 ---
-

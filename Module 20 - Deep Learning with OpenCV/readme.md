@@ -1,5 +1,18 @@
 # Module 20 - Deep Learning with OpenCV
 
+## 📖 Module Overview
+
+Deep Learning with OpenCV leverages pre-trained deep neural networks for state-of-the-art visual pattern recognition and inference. This module explores OpenCV's DNN (Deep Neural Network) module, demonstrating how to load and run popular models such as YOLO (You Only Look Once), SSD (Single Shot MultiBox Detector), and MobileNet without requiring heavy deep learning frameworks during runtime.
+
+## 📁 File Structure
+
+```text
+Module 20 - Deep Learning with OpenCV/
+└── readme.md
+```
+
+---
+
 ## Introduction
 
 Deep Learning has revolutionized the field of Computer Vision by enabling computers to automatically learn complex visual patterns from large datasets. Unlike traditional computer vision techniques that rely on manually designed features, deep learning models learn these features directly from data using Artificial Neural Networks (ANNs).

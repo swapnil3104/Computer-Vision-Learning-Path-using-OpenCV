@@ -1,4 +1,17 @@
-# Module 18 - Motion Detection using OpenCV
+# Module 18 - Motion Detection
+
+## 📖 Module Overview
+
+Motion detection identifies movement within video sequences by analyzing temporal changes between consecutive frames. This module explores core motion detection techniques including Frame Differencing, Background Subtraction algorithms (MOG2, KNN), and Optical Flow for tracking motion vectors, commonly used in surveillance and activity monitoring.
+
+## 📁 File Structure
+
+```text
+Module 18 - Motion Detection/
+└── readme.md
+```
+
+---
 
 ## Introduction
 

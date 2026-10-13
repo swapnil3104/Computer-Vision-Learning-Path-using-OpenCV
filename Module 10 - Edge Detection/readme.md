@@ -1,5 +1,23 @@
 # Module 10 - Edge Detection
 
+## 📖 Module Overview
+
+Edge detection is one of the most important image processing techniques in Computer Vision, used to identify the boundaries of objects within an image where intensity changes abruptly. This module explores gradient-based edge operators including Sobel, Scharr, Laplacian of Gaussian, and the multi-stage Canny Edge Detection algorithm.
+
+## 📁 File Structure
+
+```text
+Module 10 - Edge Detection/
+├── Images/
+│   └── sample.jpg
+├── Example.ipynb
+├── readme.md
+├── scharr_output.jpg
+└── sobel_output.jpg
+```
+
+---
+
 # Introduction
 
 Edge Detection is one of the most important image processing techniques in computer vision. It is used to identify the boundaries of objects within an image. An edge is a region where there is a sudden change in pixel intensity. Detecting these edges helps computers understand the shape, size, and location of objects.

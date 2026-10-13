@@ -1,6 +1,18 @@
-# Computer Vision
+# Module 01 - Introduction to Computer Vision
 
-> Learn the fundamentals of Computer Vision using Python and OpenCV.
+## 📖 Module Overview
+
+This module introduces the fundamentals of Computer Vision and OpenCV in Python. It covers core concepts including what Computer Vision is, its real-world applications across various domains, the standard Computer Vision pipeline, reading and displaying images, saving images, image formats, and an introduction to color spaces.
+
+## 📁 File Structure
+
+```text
+Module 01 - Introduction to Computer Vision/
+├── Dog.jpg
+├── gray_image.jpg
+├── Intro.ipynb
+└── readme.md
+```
 
 ---
 

@@ -1,4 +1,17 @@
-# Module 19 - Object Tracking using OpenCV
+# Module 19 - Object Tracking
+
+## 📖 Module Overview
+
+Object tracking continuously monitors the trajectory and position of an identified object across consecutive video frames while maintaining its identity. This module explores OpenCV's built-in tracking algorithms including CSRT (Channel and Spatial Reliability Tracker), KCF (Kernelized Correlation Filters), MOSSE, and MedianFlow, examining their trade-offs in speed and accuracy.
+
+## 📁 File Structure
+
+```text
+Module 19 - Object Tracking/
+└── readme.md
+```
+
+---
 
 ## Introduction
 

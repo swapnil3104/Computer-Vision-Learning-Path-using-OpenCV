@@ -1,5 +1,21 @@
 # Module 11 - Contours
 
+## 📖 Module Overview
+
+Contours are continuous curves joining all points along an object boundary having the same color or intensity. This module covers finding and drawing contours from binary images, calculating geometric properties (area, perimeter, moments, centroid), bounding rectangles, enclosing circles, and convex hull computation for shape analysis.
+
+## 📁 File Structure
+
+```text
+Module 11 - Contours/
+├── Images/
+│   └── sample.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
+
 # Introduction
 
 Contours are one of the most useful features in OpenCV for detecting and analyzing the shape of objects in an image. A contour is a curve joining all the continuous points having the same color or intensity. In simple words, contours represent the boundaries of objects.

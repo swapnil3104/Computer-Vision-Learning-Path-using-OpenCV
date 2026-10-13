@@ -1,5 +1,26 @@
 # Module 16 - Object Detection Basics
 
+## 📖 Module Overview
+
+Object detection identifies and localizes specific objects within an image or video frame. This module covers traditional machine learning-based object detection using the Haar Cascade Classifier framework, exploring Haar-like features, Integral Images, AdaBoost feature selection, cascade structures, and practical face, eye, and smile detection.
+
+## 📁 File Structure
+
+```text
+Module 16 - Object Detection Basics/
+├── haarcascades/
+│   ├── haarcascade_eye.xml
+│   ├── haarcascade_frontalface_default.xml
+│   └── haarcascade_smile.xml
+├── Images/
+│   ├── Person.jpg
+│   └── Person1.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
+
 # Table of Contents
 
 1. Introduction to Object Detection

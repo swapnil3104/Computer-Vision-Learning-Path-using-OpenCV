@@ -1,4 +1,28 @@
-# Module 2 - Image Basics
+# Module 02 - Image Basics
+
+## 📖 Module Overview
+
+This module covers the fundamental concepts of digital images in Computer Vision and OpenCV. It explores how digital images are represented as numerical pixel matrices, image resolution, dimensions, color channels, and core color models including RGB, BGR, Grayscale, and Alpha transparency channels.
+
+## 📁 File Structure
+
+```text
+Module 02 - Image Basics/
+├── images/
+│   ├── AlphaChannel.jpg
+│   ├── BGR-color-model.jpg
+│   ├── Gray.jpg
+│   ├── Image-Resolution.jpg
+│   ├── pixel-grid.png
+│   ├── RGB-channels-separation.png
+│   └── rgb-color-model.jpg
+├── Example.ipynb
+├── grayscale.jpg
+├── readme.md
+└── sample.jpg
+```
+
+---
 
 ## Learning Objective
 

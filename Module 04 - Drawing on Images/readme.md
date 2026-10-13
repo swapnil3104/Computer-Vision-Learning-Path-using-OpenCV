@@ -1,8 +1,16 @@
-# Module 4 - Drawing on Images
+# Module 04 - Drawing on Images
 
-Drawing on images is one of the fundamental features of OpenCV. It allows us to create shapes, annotate images, highlight objects, and display information visually. Drawing functions are widely used in computer vision applications such as object detection, image annotation, face recognition, medical imaging, and surveillance systems.
+## 📖 Module Overview
 
-OpenCV provides several built-in functions to draw geometric shapes and text directly onto an image.
+Drawing on images is one of the fundamental features of OpenCV. It allows us to create shapes, annotate images, highlight objects, and display information visually. Drawing functions are widely used in computer vision applications such as object detection, image annotation, face recognition, medical imaging, and surveillance systems. OpenCV provides several built-in functions to draw geometric shapes and text directly onto an image.
+
+## 📁 File Structure
+
+```text
+Module 04 - Drawing on Images/
+├── Example.ipynb
+└── readme.md
+```
 
 ---
 

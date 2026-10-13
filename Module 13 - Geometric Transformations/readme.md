@@ -1,5 +1,21 @@
 # Module 13 - Geometric Transformations
 
+## 📖 Module Overview
+
+Geometric transformations modify the spatial coordinates, orientation, shape, and viewpoint of an image without altering its pixel values. This module covers transformation matrices, Euclidean transformations, Affine Transformations, Perspective Transformations, and Homography computation for planar rectification, perspective correction, and document scanning.
+
+## 📁 File Structure
+
+```text
+Module 13 - Geometric Transformations/
+├── Images/
+│   └── sample.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
+
 ## Learning Objectives
 
 After completing this module, you will be able to:

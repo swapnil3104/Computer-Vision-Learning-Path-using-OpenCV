@@ -1,5 +1,18 @@
 # Module 17 - Video Processing using OpenCV
 
+## 📖 Module Overview
+
+Video processing extends computer vision techniques to sequential frames across time. This module covers reading, displaying, analyzing, and writing video files using OpenCV's cv2.VideoCapture and cv2.VideoWriter, processing real-time webcam video feeds, computing frame rate (FPS), and accessing video stream properties.
+
+## 📁 File Structure
+
+```text
+Module 17 - Video Processing using OpenCV/
+└── readme.md
+```
+
+---
+
 ## Introduction
 
 Video processing is one of the most important applications of computer vision. Unlike image processing, where a single image is analyzed, video processing deals with a sequence of images (frames) displayed rapidly to create motion.

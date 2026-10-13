@@ -1,5 +1,21 @@
 # Module 14 - Feature Detection
 
+## 📖 Module Overview
+
+Feature detection identifies distinctive and repeatable points of interest (keypoints) in images that can be recognized across changes in rotation, scale, and illumination. This module covers corner and feature detectors including Harris Corner, Shi-Tomasi, FAST, ORB (Oriented FAST and Rotated BRIEF), SIFT, SURF, and BRISK along with feature descriptor extraction.
+
+## 📁 File Structure
+
+```text
+Module 14 - Feature Detection/
+├── Images/
+│   └── sample.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
+
 ## Learning Objectives
 
 After completing this module, you will be able to:

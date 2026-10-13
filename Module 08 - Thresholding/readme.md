@@ -1,4 +1,20 @@
-# Module 8 - Thresholding
+# Module 08 - Thresholding
+
+## 📖 Module Overview
+
+Thresholding is an image segmentation technique used to separate objects of interest from their background by converting grayscale images into binary (black and white) images. This module covers Simple Binary Thresholding, Inverse Thresholding, Adaptive Thresholding for images with uneven illumination, and Otsu's Thresholding for automated threshold selection.
+
+## 📁 File Structure
+
+```text
+Module 08 - Thresholding/
+├── Images/
+│   └── Image1.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
 
 ## Learning Objectives
 

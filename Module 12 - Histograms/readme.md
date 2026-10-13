@@ -1,5 +1,21 @@
 # Module 12 - Histograms
 
+## 📖 Module Overview
+
+Image histograms provide a graphical representation of pixel intensity distribution, offering key insights into image brightness, contrast, and tonal balance. This module covers calculating and plotting histograms, global Histogram Equalization to improve contrast, Contrast Limited Adaptive Histogram Equalization (CLAHE) for localized illumination adjustment, and histogram comparison techniques.
+
+## 📁 File Structure
+
+```text
+Module 12 - Histograms/
+├── Images/
+│   └── sample.png
+├── Example.ipynb
+└── readme.md
+```
+
+---
+
 ## Learning Objectives
 
 After completing this module, you will be able to:

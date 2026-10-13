@@ -1,4 +1,25 @@
-# Module 7 - Image Filtering
+# Module 07 - Image Filtering
+
+## 📖 Module Overview
+
+Image filtering is a vital preprocessing technique in Computer Vision used to enhance images, smooth textures, reduce noise, and sharpen details. This module covers major neighborhood filtering methods including Average Blur, Gaussian Blur, Median Blur, Bilateral Filtering (edge-preserving smoothing), and image sharpening using convolution kernels.
+
+## 📁 File Structure
+
+```text
+Module 07 - Image Filtering/
+├── images/
+│   ├── average_blur.jpg
+│   ├── bilateral_filter.jpg
+│   ├── car.jpg
+│   ├── gaussian_blur.jpg
+│   ├── median_blur.jpg
+│   └── sharpen.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
 
 ## Learning Objectives
 

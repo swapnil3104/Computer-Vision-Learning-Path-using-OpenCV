@@ -1,4 +1,24 @@
-# Module 6 - Image Arithmetic
+# Module 06 - Image Arithmetic
+
+## 📖 Module Overview
+
+Image arithmetic refers to mathematical operations performed directly on image pixel values. Since images are matrices of pixel intensities, operations like addition, subtraction, bitwise operations (AND, OR, NOT, XOR), image blending, and transparency overlays can be used to watermark images, superimpose logos, and create regions of interest (ROI).
+
+## 📁 File Structure
+
+```text
+Module 06 - Image Arithmetic/
+├── Images/
+│   ├── butterfly.jpg
+│   ├── Image1.jpg
+│   ├── Image1_resized.jpg
+│   ├── Image2.jpg
+│   └── Image2_resized.jpg
+├── Example.ipynb
+└── readme.md
+```
+
+---
 
 ## Learning Objectives
 
